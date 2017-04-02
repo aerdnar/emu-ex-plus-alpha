@@ -1,5 +1,8 @@
 # Welcome to How To Compile this project on linux (tested on Ubuntu 16.04)
+### * Incomplete
 https://github.com/Rakashazi/emu-ex-plus-alpha 		
+
+ 
 
 ---------------------------------------------------------------------------
 ## Dipendences
